@@ -1,6 +1,71 @@
-Name,Marks
-Aman,85
-Riya,35
-Kunal,55
-Neha,72
-Rohit,40
+Name,FathersName,Mobile,SGPA,Marks
+Aman Kumar,Rajesh Kumar,9876501001,8.6,86
+Riya Sharma,Anil Sharma,9876501002,7.4,72
+Kunal Verma,Suresh Verma,9876501003,6.1,55
+Neha Singh,Arvind Singh,9876501004,5.2,45
+Rohit Gupta,Mahesh Gupta,9876501005,3.8,32
+Anjali Mehta,Rakesh Mehta,9876501006,9.1,91
+Saurabh Yadav,Vinod Yadav,9876501007,4.1,38
+Pooja Patel,Kiran Patel,9876501008,7.0,68
+Rahul Mishra,Ajay Mishra,9876501009,6.5,62
+Sneha Joshi,Prakash Joshi,9876501010,8.9,89
+Aditya Saxena,Manoj Saxena,9876501011,7.8,78
+Kriti Agarwal,Sanjay Agarwal,9876501012,5.7,52
+Vikas Pandey,Ram Pandey,9876501013,6.9,66
+Simran Kaur,Gurpreet Kaur,9876501014,8.3,83
+Nitin Chauhan,Ravindra Chauhan,9876501015,3.5,28
+Isha Kapoor,Sunil Kapoor,9876501016,9.4,94
+Aakash Jain,Deepak Jain,9876501017,7.2,70
+Ritu Malhotra,Vikas Malhotra,9876501018,6.4,59
+Harsh Bansal,Mukesh Bansal,9876501019,5.0,41
+Kavya Arora,Naveen Arora,9876501020,8.7,87
+Manish Thakur,Devendra Thakur,9876501021,6.0,58
+Priya Nair,Krishnan Nair,9876501022,7.9,79
+Abhishek Roy,Amit Roy,9876501023,5.4,48
+Shivam Tiwari,Satish Tiwari,9876501024,6.8,65
+Nandini Ghosh,Subhash Ghosh,9876501025,9.0,90
+Deepak Soni,Rajendra Soni,9876501026,3.9,35
+Aditi Kulkarni,Madhav Kulkarni,9876501027,7.6,76
+Mohit Rana,Baljeet Rana,9876501028,5.9,54
+Tanvi Deshpande,Anil Deshpande,9876501029,8.0,80
+Yash Khanna,Alok Khanna,9876501030,6.3,60
+Rohini Das,Sudip Das,9876501031,7.1,69
+Siddharth Jain,Pankaj Jain,9876501032,8.8,88
+Pallavi Shukla,Naresh Shukla,9876501033,5.1,42
+Arjun Reddy,Srinivas Reddy,9876501034,6.6,63
+Mehul Shah,Nitin Shah,9876501035,7.7,77
+Kiran Rao,Mohan Rao,9876501036,3.6,30
+Shreya Banerjee,Pradip Banerjee,9876501037,8.4,84
+Gaurav Malviya,Santosh Malviya,9876501038,6.2,57
+Pankaj Lodhi,Ram Lodhi,9876501039,5.3,46
+Nisha Kumari,Om Prakash,9876501040,7.0,67
+Amit Solanki,Bharat Solanki,9876501041,6.1,56
+Rashmi Shetty,Ramesh Shetty,9876501042,8.5,85
+Tarun Bhatia,Kapil Bhatia,9876501043,5.8,53
+Kajal Joshi,Mahendra Joshi,9876501044,7.4,74
+Sandeep Rawat,Brij Rawat,9876501045,3.4,26
+Muskan Ali,Salim Ali,9876501046,8.2,82
+Ravi Pratap,Virendra Pratap,9876501047,6.7,64
+Alisha Khan,Imran Khan,9876501048,7.8,78
+Vivek Choudhary,Shyam Choudhary,9876501049,5.5,50
+Pritam Sen,Debashis Sen,9876501050,6.0,55
+Akash Tripathi,Rakesh Tripathi,9876501051,8.1,81
+Komal Gupta,Sunil Gupta,9876501052,6.9,66
+Devansh Mishra,Ashok Mishra,9876501053,7.3,73
+Preeti Yadav,Rajeev Yadav,9876501054,5.6,51
+Saurav Paul,Anil Paul,9876501055,8.9,89
+Manpreet Singh,Harjit Singh,9876501056,6.4,61
+Ritika Jain,Ajay Jain,9876501057,7.7,77
+Abhay Kumar,Vijay Kumar,9876501058,5.2,44
+Neeraj Pathak,Ramesh Pathak,9876501059,6.8,65
+Shalini Verma,Pradeep Verma,9876501060,8.6,86
+Karthik Iyer,Ram Iyer,9876501061,7.1,69
+Puneet Arora,Suresh Arora,9876501062,6.3,60
+Swati Mishra,Alok Mishra,9876501063,8.0,80
+Rohit Malhotra,Anil Malhotra,9876501064,5.9,54
+Irfan Khan,Salman Khan,9876501065,6.5,62
+Meena Devi,Ram Lal,9876501066,4.0,39
+Nikhil Bansal,Sanjay Bansal,9876501067,7.9,79
+Puja Sen,Anup Sen,9876501068,6.6,63
+Gopal Sharma,Mohan Sharma,9876501069,5.1,41
+Suman Chatterjee,Prabir Chatterjee,9876501070,8.3,83

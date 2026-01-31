@@ -1,5 +1,101 @@
-Name,Marks
-Aman,78
-Riya,35
-Kunal,55
-Neha,29
+Name,FathersName,Mobile,SGPA,Marks
+Aman Kumar,Rajesh Kumar,9876512001,8.6,86
+Riya Sharma,Anil Sharma,9876512002,7.4,72
+Kunal Verma,Suresh Verma,9876512003,6.1,55
+Neha Singh,Arvind Singh,9876512004,5.2,45
+Rohit Gupta,Mahesh Gupta,9876512005,3.8,32
+Anjali Mehta,Rakesh Mehta,9876512006,9.1,91
+Saurabh Yadav,Vinod Yadav,9876512007,4.1,38
+Pooja Patel,Kiran Patel,9876512008,7.0,68
+Rahul Mishra,Ajay Mishra,9876512009,6.5,62
+Sneha Joshi,Prakash Joshi,9876512010,8.9,89
+Aditya Saxena,Manoj Saxena,9876512011,7.8,78
+Kriti Agarwal,Sanjay Agarwal,9876512012,5.7,52
+Vikas Pandey,Ram Pandey,9876512013,6.9,66
+Simran Kaur,Gurpreet Kaur,9876512014,8.3,83
+Nitin Chauhan,Ravindra Chauhan,9876512015,3.5,28
+Isha Kapoor,Sunil Kapoor,9876512016,9.4,94
+Aakash Jain,Deepak Jain,9876512017,7.2,70
+Ritu Malhotra,Vikas Malhotra,9876512018,6.4,59
+Harsh Bansal,Mukesh Bansal,9876512019,5.0,41
+Kavya Arora,Naveen Arora,9876512020,8.7,87
+Manish Thakur,Devendra Thakur,9876512021,6.0,58
+Priya Nair,Krishnan Nair,9876512022,7.9,79
+Abhishek Roy,Amit Roy,9876512023,5.4,48
+Shivam Tiwari,Satish Tiwari,9876512024,6.8,65
+Nandini Ghosh,Subhash Ghosh,9876512025,9.0,90
+Deepak Soni,Rajendra Soni,9876512026,3.9,35
+Aditi Kulkarni,Madhav Kulkarni,9876512027,7.6,76
+Mohit Rana,Baljeet Rana,9876512028,5.9,54
+Tanvi Deshpande,Anil Deshpande,9876512029,8.0,80
+Yash Khanna,Alok Khanna,9876512030,6.3,60
+Rohini Das,Sudip Das,9876512031,7.1,69
+Siddharth Jain,Pankaj Jain,9876512032,8.8,88
+Pallavi Shukla,Naresh Shukla,9876512033,5.1,42
+Arjun Reddy,Srinivas Reddy,9876512034,6.6,63
+Mehul Shah,Nitin Shah,9876512035,7.7,77
+Kiran Rao,Mohan Rao,9876512036,3.6,30
+Shreya Banerjee,Pradip Banerjee,9876512037,8.4,84
+Gaurav Malviya,Santosh Malviya,9876512038,6.2,57
+Pankaj Lodhi,Ram Lodhi,9876512039,5.3,46
+Nisha Kumari,Om Prakash,9876512040,7.0,67
+Amit Solanki,Bharat Solanki,9876512041,6.1,56
+Rashmi Shetty,Ramesh Shetty,9876512042,8.5,85
+Tarun Bhatia,Kapil Bhatia,9876512043,5.8,53
+Kajal Joshi,Mahendra Joshi,9876512044,7.4,74
+Sandeep Rawat,Brij Rawat,9876512045,3.4,26
+Muskan Ali,Salim Ali,9876512046,8.2,82
+Ravi Pratap,Virendra Pratap,9876512047,6.7,64
+Alisha Khan,Imran Khan,9876512048,7.8,78
+Vivek Choudhary,Shyam Choudhary,9876512049,5.5,50
+Pritam Sen,Debashis Sen,9876512050,6.0,55
+Akash Tripathi,Rakesh Tripathi,9876512051,8.1,81
+Komal Gupta,Sunil Gupta,9876512052,6.9,66
+Devansh Mishra,Ashok Mishra,9876512053,7.3,73
+Preeti Yadav,Rajeev Yadav,9876512054,5.6,51
+Saurav Paul,Anil Paul,9876512055,8.9,89
+Manpreet Singh,Harjit Singh,9876512056,6.4,61
+Ritika Jain,Ajay Jain,9876512057,7.7,77
+Abhay Kumar,Vijay Kumar,9876512058,5.2,44
+Neeraj Pathak,Ramesh Pathak,9876512059,6.8,65
+Shalini Verma,Pradeep Verma,9876512060,8.6,86
+Karthik Iyer,Ram Iyer,9876512061,7.1,69
+Puneet Arora,Suresh Arora,9876512062,6.3,60
+Swati Mishra,Alok Mishra,9876512063,8.0,80
+Rohit Malhotra,Anil Malhotra,9876512064,5.9,54
+Irfan Khan,Salman Khan,9876512065,6.5,62
+Meena Devi,Ram Lal,9876512066,4.0,39
+Nikhil Bansal,Sanjay Bansal,9876512067,7.9,79
+Puja Sen,Anup Sen,9876512068,6.6,63
+Gopal Sharma,Mohan Sharma,9876512069,5.1,41
+Suman Chatterjee,Prabir Chatterjee,9876512070,8.3,83
+Aman Kumar II,Rajesh Kumar,9876512071,8.4,84
+Riya Sharma II,Anil Sharma,9876512072,7.2,70
+Kunal Verma II,Suresh Verma,9876512073,6.0,58
+Neha Singh II,Arvind Singh,9876512074,5.4,47
+Rohit Gupta II,Mahesh Gupta,9876512075,3.7,31
+Anjali Mehta II,Rakesh Mehta,9876512076,9.0,90
+Saurabh Yadav II,Vinod Yadav,9876512077,4.2,39
+Pooja Patel II,Kiran Patel,9876512078,7.3,73
+Rahul Mishra II,Ajay Mishra,9876512079,6.6,63
+Sneha Joshi II,Prakash Joshi,9876512080,8.7,87
+Aditya Saxena II,Manoj Saxena,9876512081,7.6,76
+Kriti Agarwal II,Sanjay Agarwal,9876512082,5.5,50
+Vikas Pandey II,Ram Pandey,9876512083,6.8,65
+Simran Kaur II,Gurpreet Kaur,9876512084,8.1,81
+Nitin Chauhan II,Ravindra Chauhan,9876512085,3.6,29
+Isha Kapoor II,Sunil Kapoor,9876512086,9.2,92
+Aakash Jain II,Deepak Jain,9876512087,7.4,74
+Ritu Malhotra II,Vikas Malhotra,9876512088,6.2,57
+Harsh Bansal II,Mukesh Bansal,9876512089,5.0,40
+Kavya Arora II,Naveen Arora,9876512090,8.5,85
+Manish Thakur II,Devendra Thakur,9876512091,6.1,56
+Priya Nair II,Krishnan Nair,9876512092,7.8,78
+Abhishek Roy II,Amit Roy,9876512093,5.3,46
+Shivam Tiwari II,Satish Tiwari,9876512094,6.9,66
+Nandini Ghosh II,Subhash Ghosh,9876512095,8.9,89
+Deepak Soni II,Rajendra Soni,9876512096,4.0,36
+Aditi Kulkarni II,Madhav Kulkarni,9876512097,7.5,75
+Mohit Rana II,Baljeet Rana,9876512098,5.8,53
+Tanvi Deshpande II,Anil Deshpande,9876512099,8.2,82
+Yash Khanna II,Alok Khanna,9876512100,6.4,61
