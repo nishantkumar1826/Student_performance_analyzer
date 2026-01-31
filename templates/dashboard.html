@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dashboard</title>
+
+    <style>
+        body {
+            margin: 0;
+            background: #eef2f7;
+            font-family: "Segoe UI", sans-serif;
+        }
+
+        .navbar {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            background: linear-gradient(90deg, #1e3c72, #2563eb);
+            padding: 16px 40px;
+            color: white;
+        }
+
+        .nav-left {
+            display: flex;
+            align-items: center;
+        }
+
+        .navbar img {
+            height: 45px;
+            background: white;
+            padding: 6px;
+            border-radius: 6px;
+            margin-right: 15px;
+        }
+
+        .navbar span {
+            font-size: 24px;
+            font-weight: 600;
+        }
+
+        .logout {
+            color: white;
+            text-decoration: none;
+            padding: 8px 18px;
+            border-radius: 6px;
+            background: #e63946;
+            transition: 0.3s;
+        }
+
+        .logout:hover {
+            background: #c1121f;
+            transform: scale(1.05);
+        }
+
+        .container {
+            width: 60%;
+            margin: 110px auto;
+            background: white;
+            padding: 50px;
+            border-radius: 18px;
+            text-align: center;
+            box-shadow: 0 25px 60px rgba(0,0,0,0.2);
+        }
+
+        h2 {
+            font-size: 34px;
+            color: #1e3c72;
+        }
+
+        p {
+            font-size: 18px;
+            color: #555;
+            margin-bottom: 30px;
+        }
+
+        input[type="file"] {
+            font-size: 16px;
+            margin-bottom: 30px;
+        }
+
+        button {
+            padding: 14px 45px;
+            font-size: 18px;
+            background: #2563eb;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+        button:hover {
+            background: #1e40af;
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="navbar">
+    <div class="nav-left">
+        <img src="{{ url_for('static', filename='krm_logo.png') }}">
+        <span>Student Performance Dashboard</span>
+    </div>
+    <a href="/logout" class="logout">Logout</a>
+</div>
+
+<div class="container">
+    <h2>Upload Student Academic Data</h2>
+    <p>You can upload multiple CSV files for analysis</p>
+
+    <form method="POST" enctype="multipart/form-data">
+        <input type="file" name="file" required>
+        <br>
+        <button type="submit">Analyze Performance</button>
+    </form>
+</div>
+
+</body>
+</html>
