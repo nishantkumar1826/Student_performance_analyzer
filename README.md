@@ -90,13 +90,6 @@ The following screenshots were captured after testing and stored in the `screens
 - Result Table Output
 - Logout Flow
 
-These screenshots can be used directly in:
-- Project report
-- PPT
-- Viva explanation
-
----
-
 ## ⚠️ Edge Case Handling
 
 The system was tested against the following edge cases:
